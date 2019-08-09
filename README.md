@@ -1,2 +1,3 @@
-# spring-boot2-swagger2-documentation
-Spring Boot2 Swagger2 Documentation For Product CRUD RESTful Endpoints
+# Rest Service Documentation using Swagger
+
+Reference URL -> https://springframework.guru/spring-boot-restful-api-documentation-with-swagger-2/
