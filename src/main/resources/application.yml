@@ -1,0 +1,15 @@
+spring:
+  common:
+    web:
+      config:
+        swagger:
+          title: "Spring Boot REST API"
+          description: "\"Spring Boot REST API for Online Store\""
+          version: "1.0.1"
+          authorName: "Alfred"  
+          authorEmailId: "michaelraj.p@gmail.com"
+          controllerPackage: "com.michael.spring.boot.swagger.controllers"
+          endpointsPath: "/product.*"
+                   
+          
+          
